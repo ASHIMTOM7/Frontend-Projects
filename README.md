@@ -10,4 +10,4 @@
 
 ## Enjoy the projects
 
-    ![badcharacter0xff](/assets/images/lap.png)
+    ![badcharacter0xff](./assets/images/lap.png "coding...")
