@@ -10,4 +10,4 @@
 
 ## Enjoy the projects
 
-    ![badcharacter0xff.dev](/assets/images/coder.gif)
+    ![badcharacter0xff.dev](/assets/images/lap.png)
